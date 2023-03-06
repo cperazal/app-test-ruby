@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+dell:
+  title: Laptop Dell 
+  description: Laptop test en buen estado para estudiantes
+  price: 200
+
+msi:
+  title: MSI Laptop gaming
+  description: Laptop en excelentes condiciones para video juegos
+  price: 500
